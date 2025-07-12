@@ -17,40 +17,37 @@ Seja bem-vindo(a)! Este é o meu perfil em construção
   <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=firebase" height="70" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=javascript" height="70" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=kotlin" height="70" alt="kotlin logo" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo" />
   <img width="12" />
 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="70" alt="mssql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=postgres" height="70" alt="postgresql logo" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
   <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="70" alt="postman logo" />
-  <img width="12" />
-
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="50" alt="selenium logo" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="selenium logo" />
   
 </div>
 

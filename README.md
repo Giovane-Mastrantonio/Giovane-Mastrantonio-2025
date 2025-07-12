@@ -2,7 +2,21 @@
 Seja bem-vindo(a)! Este é o meu perfil em construção
 
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá! 👋, Eu sou o Giovane</h1>
+<h3 align="center">Sou apaixonado por tecnologia e agora me aprofundando em Python</h3>
+
+
+- 🔭 Atualmente estou desenvolvendo vários aplicativos para celular [MemoryGame, QuizApp, MeuCarro-App]
+
+- 🌱 Atualmente estou aprendendo Python nos tópicos de **Estruturas de repetição, controle de Strings, ...**
+
+- 👯 Estou colaborando em um projeto de ensino da linguagem Kotlin de nome [KotlinLearner]
+
+- 🤝 Fico ao dispor para conversas sobre Python [Pode encontrar aqui](https://mastrantonio.com.br/)
+
+- 📫 Como entrar em contato comigo por e-mail **contato@mastrantonio.com.br**
+
+- ⚡ Fato curioso é que possuo **Certificado de Linguagem BASIC I de 1986**
 
 ###
 
@@ -76,31 +90,3 @@ Seja bem-vindo(a)! Este é o meu perfil em construção
 </picture>
 
 ###
-
-============================================================================
-
-<h1 align="center">Oi 👋, Eu sou o Giovane</h1>
-<h3 align="center">Sou apaixonado por tecnologia e agora me aprofundando em Python</h3>
-
-
-- 🔭 Atualmente estou desenvolvendo vários aplicativos [MemoryGame, QuizApp, MeuCarro-App](( em breve ))
-
-- 🌱 Atualmente estou aprendendo Python **Estruturas de repetição, controle de Strings, ...**
-
-- 👯 Estou colaborando em um projeto de ensino [KotlinLearner](( ainda não publicado ))
-
-- 🤝 Fico ao dispor para conversas sobre Python [Pode encontrar aqui](https://mastrantonio.com.br/)
-
-- 📫 Como entrar em contato comigo **contato@mastrantonio.com.br**
-
-- ⚡ Fato curioso **Possuo certificado de Linguagem BASIC I de 1986**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/giovane-mastrantonio-ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/giovane-mastrantonio-ti" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> 
-
-
